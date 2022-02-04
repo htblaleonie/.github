@@ -1,12 +1,12 @@
 # Leonie
 
-## [Production Server](leonie.htl-leonding.ac.at)
+## [Production Server](https://leonie.htl-leonding.ac.at/)
 
-- Server: [leonie.htl-leonding.ac.at](leonie.htl-leonding.ac.at)
+- Server: [leonie.htl-leonding.ac.at](https://leonie.htl-leonding.ac.at/)
 
-## [Development Server](vm105.htl-leonding.ac.at)
+## [Development Server](https://vm105.htl-leonding.ac.at/)
 
-- Server: [vm105.htl-leonding.ac.at](vm105.htl-leonding.ac.at)
+- Server: [vm105.htl-leonding.ac.at](https://vm105.htl-leonding.ac.at/)
 
 ## Logins
 
