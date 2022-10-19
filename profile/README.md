@@ -6,8 +6,8 @@
 
 ## [Leonie-2D](https://vm105.htl-leonding.ac.at/)
 
-- Frontend: [link](https://vm105.htl-leonding.ac.at/)
-- Dashboard: [link](https://vm105.htl-leonding.ac.at/dashboard)
+- Frontend: [vm105](https://vm105.htl-leonding.ac.at/)
+- Dashboard: [vm105/dashboard](https://vm105.htl-leonding.ac.at/dashboard)
 
 ## Logins
 
