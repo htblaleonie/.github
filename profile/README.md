@@ -2,12 +2,13 @@
 
 ## [Leonie-3D](https://leonie.htl-leonding.ac.at/)
 
-- Server: [leonie.htl-leonding.ac.at](https://leonie.htl-leonding.ac.at/)
+- Chatbot: [leonie.htl-leonding.ac.at](https://leonie.htl-leonding.ac.at/)
 
 ## [Leonie-2D](https://vm105.htl-leonding.ac.at/)
 
-- Frontend: [vm105](https://vm105.htl-leonding.ac.at/)
-- Dashboard: [vm105/dashboard](https://vm105.htl-leonding.ac.at/dashboard)
+- [Frontend](https://student.cloud.htl-leonding.ac.at/d.pavelescu/frontend)
+- [Dashboard](https://student.cloud.htl-leonding.ac.at/d.pavelescu/dashboard)
+- [Backend](https://student.cloud.htl-leonding.ac.at/d.pavelescu/backend)
 
 ## Logins
 
