@@ -10,6 +10,11 @@
 - [Dashboard](https://student.cloud.htl-leonding.ac.at/d.pavelescu/dashboard)
 - [Backend](https://student.cloud.htl-leonding.ac.at/d.pavelescu/backend)
 
+## Docu 
+
+- [Slides](https://expert-umbrella-dd291a82.pages.github.io/)
+- [2D-Features](https://htblaleonie.github.io/leonie-documentation/2D-Documentation/features.html)
+
 ## Logins
 
 All credentials can be found [here](https://github.com/htblaleonie/leonie-documentation/blob/master/Accounts.md.gpg)
