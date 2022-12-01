@@ -12,7 +12,7 @@
 
 ## Docu 
 
-- [Slides](https://expert-umbrella-dd291a82.pages.github.io/)
+- [Leonie - Slides for presentations](https://expert-umbrella-dd291a82.pages.github.io/)
 - [2D-Features](https://htblaleonie.github.io/leonie-documentation/2D-Documentation/features.html)
 
 ## Logins
