@@ -1,10 +1,10 @@
 # Leonie
 
-## [Leonie-3D](https://leonie.htl-leonding.ac.at/)
+## [Leonie-3D](https://student.cloud.htl-leonding.ac.at/d.pavelescu/3d)
 
-- Chatbot: [leonie.htl-leonding.ac.at](https://leonie.htl-leonding.ac.at/)
+- [Frontend](https://student.cloud.htl-leonding.ac.at/d.pavelescu/3d)
 
-## [Leonie-2D](https://vm105.htl-leonding.ac.at/)
+## [Leonie-2D](https://student.cloud.htl-leonding.ac.at/d.pavelescu/)
 
 - [Frontend](https://student.cloud.htl-leonding.ac.at/d.pavelescu/frontend)
 - [Dashboard](https://student.cloud.htl-leonding.ac.at/d.pavelescu/dashboard)
