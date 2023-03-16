@@ -12,7 +12,8 @@
 
 ## Docu 
 
-- [Leonie - Slides for presentations](https://expert-umbrella-dd291a82.pages.github.io/)
+- [Leonie - Slides for presentations AsciiDoc](https://expert-umbrella-dd291a82.pages.github.io/)
+- [Leonie - Slides for presentations Motion-Canvas](https://htblaleonie.github.io/leonie-documentation/pres.html)
 - [2D-Features](https://htblaleonie.github.io/leonie-documentation/2D-Documentation/features.html)
 - [Leonie 2D Deployment](https://htblaleonie.github.io/leonie-2d/)
 ## Logins
